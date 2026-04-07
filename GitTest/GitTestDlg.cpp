@@ -102,6 +102,7 @@ BOOL CGitTestDlg::OnInitDialog()
 	// 커밋 1
 	// 커밋 2
 	// 커밋 3
+	// foo 커밋1
 
 	return TRUE;  // 포커스를 컨트롤에 설정하지 않으면 TRUE를 반환합니다.
 }
