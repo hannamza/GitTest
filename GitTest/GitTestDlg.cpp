@@ -109,6 +109,7 @@ BOOL CGitTestDlg::OnInitDialog()
 	// bar 커밋 1
 	// bar 커밋 2
 	// bar 커밋 3
+	// 스테시 추가
 
 
 	// 스테시 추가2
